@@ -1,0 +1,6 @@
+# Q-1 shopping cart total
+cart = [50,100,30]
+sum = 0
+for i in cart:
+    sum += i
+print(sum)
