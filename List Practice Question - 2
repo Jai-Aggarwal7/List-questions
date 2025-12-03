@@ -3,4 +3,4 @@ rating = [1,2,3]
 sum = 0
 for i in rating:
     sum += i
-print(sum/len(rating))
+print(sum/len(rating)) 
